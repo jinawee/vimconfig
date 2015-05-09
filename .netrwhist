@@ -1,4 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/jinawee'
 let g:netrw_dirhist_2='/home/jinawee/.vim/bundle/rainbow'
+let g:netrw_dirhist_3='/media/usb/Isidro/Prac4/Informe'
+let g:netrw_dirhist_4='/home/jinawee/Isidro/Prac3/Informe'
